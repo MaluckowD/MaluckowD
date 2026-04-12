@@ -1,95 +1,172 @@
-# Maluckow Dmitry
+# <div align="center">Дмитрий Малюков</div>
+
+<div align="center">
 
 ### Frontend / React Developer
 
-## About Me
-- Начинающий Frontend / React разработчик, 21 год
-- Студент 3 курса **Рязанского государственного радиотехнического университета** по направлению **"Программная инженерия"**
-- Изучаю frontend-разработку более 1 года
-- Специализируюсь на **React** и современном JavaScript
-- Прошел курс **«Алгоритмы и структуры данных 2025»** от Т-Образования
-- Учусь в **Т-Академии** по направлению Frontend-разработки
-- Есть несколько pet-проектов, включая **социальную сеть** и **платформу AI-чатов**
-- Знаком с популярными стейт-менеджерами
-- Понимаю основы работы с REST API и WebSockets
-- Имею опыт работы с **OAuth**, **платежными системами** и **почтовыми рассылками**
-- Постоянно развиваюсь и изучаю сейчас Tramvai React
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=React+%2F+Next.js+Developer;Frontend+Developer+from+Ryazan;Building+pet-projects+with+real+features;Always+learning+something+new" alt="Typing SVG" />
 
-## 🚀 My Stack
+</div>
+
+---
+
+## 🚀 About Me
+
+Я **Frontend / React разработчик**, мне **21 год**. Учусь на 3 курсе **Рязанского государственного радиотехнического университета** по направлению **«Программная инженерия»**.
+
+Уже более года активно изучаю frontend-разработку, делая упор на **React**, **TypeScript** и построение удобных интерфейсов.
+
+Сейчас развиваюсь в сторону более сильной архитектуры приложений, работы с API, real-time функциональностью и современного frontend ecosystem.
+
+### Что обо мне важно
+
+* 🎓 Учусь в **РГРТУ** на направлении «Программная инженерия»
+* 💻 Обучаюсь в **Т-Академии** по направлению Frontend-разработки
+* 📚 Прошел курс **«Алгоритмы и структуры данных 2025»** от **Т-Образования**
+* ⚛️ Основной стек: **React, TypeScript, Next.js**
+* 🔌 Работал с **REST API, WebSockets, OAuth, платежными системами, email-рассылками**
+* 🧠 Сейчас изучаю **Angular** и **Tramvai React**, расширяя кругозор в frontend-разработке
+
+---
+
+## 🧩 Чем я полезен как разработчик
+
+* Умею делать **понятные и современные интерфейсы**
+* Понимаю, как строить **SPA-приложения** и организовывать frontend-логику
+* Имею опыт интеграции с **backend API** и сервисами авторизации
+* Работал с **real-time фичами** через WebSockets
+* Использую популярные подходы к управлению состоянием: **Redux, Zustand, React Query**
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux" />
 
-### Styling
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=css3&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+### Backend / DB
 
-### Tools & Dev
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma" />
 
-### State Management
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=react&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+### Styling / Tools
 
-## 📁 Pet Projects
+<img src="https://skillicons.dev/icons?i=sass,styledcomponents,git,github,vite,webpack,figma" />
 
-### **[Социальная сеть T-News](https://github.com/MaluckowD/T-News)**
-- Полнофункциональная социальная платформа с возможностью создания постов, комментариев и лайков
-- Система подписок на пользователей
-- Поиск пользователей по имени и поиск постов
-- Современный UI/UX интерфейс
-- Бэкенд написан на Nest JS
-- Фронт на чистом JS
-- Итоговый проект 1 семестра **Т-Академии**
+</div>
 
-### **[AI Chat CeRBeR-GPT](https://github.com/CeRBeR-GPT/frontend)**
-- Платформа для взаимодействия с различными GPT-моделями
-- Реализована система тарифов с **интеграцией платежной системы**
-- **WebSockets** для real-time общения и отображения сообщений
-- Поддержка **LaTeX формул** и **Markdown** разметки
-- **Загрузка и чтение файлов**, голосовой ввод сообщений
-- **OAuth авторизация** через сторонние сервисы
-- Система **почтовых рассылок** для уведомлений пользователей
-- **Статистика активности** как в github
-- Возможности копирование кода и сообщений, а также скачивание кода
-- Написаны **юнит-тесты**
-- Изучил на этом проекте основные возможности **React Query**
+---
 
-## 💬 Contact Me
+## 📌 Featured Projects
+
+### 1. T-News — социальная сеть
+
+**GitHub:** [MaluckowD/T-News](https://github.com/MaluckowD/T-News)
+
+Полнофункциональная социальная платформа, где пользователи могут:
+
+* публиковать посты
+* ставить лайки и писать комментарии
+* подписываться друг на друга
+* искать пользователей и посты
+
+**Что интересно в проекте:**
+
+* backend на **NestJS**
+* frontend на **чистом JavaScript**
+* полноценная логика социальной платформы
+* проект был выполнен как итоговая работа 1 семестра **Т-Академии**
+
+---
+
+### 2. CeRBeR-GPT — AI chat platform
+
+**GitHub:** [CeRBeR-GPT/frontend](https://github.com/CeRBeR-GPT/frontend)
+
+Платформа для общения с различными GPT-моделями с большим количеством прикладных возможностей.
+
+**Реализовано:**
+
+* 💬 real-time чат на **WebSockets**
+* 💳 интеграция **платежной системы**
+* 🔐 **OAuth-авторизация**
+* 📩 система **почтовых рассылок**
+* 🧾 поддержка **Markdown** и **LaTeX**
+* 📁 загрузка и чтение файлов
+* 🎤 голосовой ввод сообщений
+* 📈 статистика активности пользователей
+* ✅ написаны **юнит-тесты**
+
+**Что дал мне этот проект:**
+
+* практику работы с реальными продуктовыми фичами
+* опыт использования **React Query**
+* лучшее понимание UX для сложных интерфейсов
+
+---
+
+## 📈 Сейчас изучаю
+
+* Архитектуру frontend-приложений
+* **Angular**
+* **Tramvai React**
+* Более глубокую работу с **TypeScript**
+* Подходы к оптимизации производительности React-приложений
+
+---
+
+## 🎯 Цели
+
+* Получить сильную коммерческую практику во frontend-разработке
+* Участвовать в создании сложных и полезных продуктов
+* Расти как **React / Frontend Developer**
+* Улучшать навыки проектирования приложений и командной разработки
+
+---
+
+## 🏆 Дополнительно
+
+* Есть опыт участия в различных **хакатонах**, где приходилось быстро погружаться в задачу, работать в условиях ограниченного времени и находить практичные решения
+* Интересуюсь не только версткой, но и логикой продукта, UX и удобством интерфейсов
+* Стараюсь писать код, который не просто работает, а который удобно поддерживать
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MaluckowD&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaluckowD&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaluckowD&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Contact Me
+
 <div align="center">
   <a href="https://github.com/MaluckowD" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:dim.maluckow2017@yandex.ru" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000080?style=for-the-badge&logo=mail.ru&logoColor=white" />
-  </a>  
+    <img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://t.me/MaluckowD" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>  
+  </a>
 </div>
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaluckowD&theme=dark)
+---
 
+<div align="center">
 
+### Спасибо, что заглянул в профиль 👋
 
+**Открыт к новым знакомствам, совместным проектам и интересным задачам.**
 
-
+</div>
